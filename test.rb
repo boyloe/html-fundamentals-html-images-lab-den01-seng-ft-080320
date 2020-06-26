@@ -5,6 +5,6 @@ programmer_hash =
       }
       binding.pry
       
-      programmer_hash[:dennis_ritchie][:known_for] => { programmer_hash[:dennis_ritchie][:known_for], "Assembly" }
+      programmer_hash[:dennis_ritchie][:known_for] => programmer_hash[:dennis_ritchie][:known_for], "Assembly" 
       binding.pry
       
