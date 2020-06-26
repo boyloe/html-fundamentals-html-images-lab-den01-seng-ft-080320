@@ -4,4 +4,4 @@ programmer_hash =
         :languages => ["C"]
       }
       
-      programmer_hash[:denni]
+      programmer_hash[:dennis_ritchie][:known_for] =>
